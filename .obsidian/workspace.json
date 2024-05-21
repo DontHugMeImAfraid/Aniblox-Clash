@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a412beeca3cc8b8d",
+        "id": "6851fa7b4bf28a45",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6d533fd8cf6e54",
+            "id": "f6f315b44abf7cdc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false,
-                "hash": "997c774dd9560d49bbbcc389d4bc9cc755726faf"
+                "file": "Gameplay/User Interface.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -31,6 +31,7 @@
       {
         "id": "ce83256aa9461a7e",
         "type": "tabs",
+        "dimension": 48.51657940663176,
         "children": [
           {
             "id": "fb33cdb454f23d5c",
@@ -68,8 +69,9 @@
         ]
       },
       {
-        "id": "4250226521e60163",
+        "id": "2ae20f36bbeb2df2",
         "type": "tabs",
+        "dimension": 51.48342059336824,
         "children": [
           {
             "id": "0084b5561778defc",
@@ -83,22 +85,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "f6f05301f43f8835",
     "type": "split",
     "children": [
       {
-        "id": "b27609750dd07d5e",
+        "id": "cb84f887f51e050f",
         "type": "tabs",
+        "dimension": 59.2814371257485,
         "children": [
+          {
+            "id": "d1c1387ee7544761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gameplay/User Interface.md"
+              }
+            }
+          },
           {
             "id": "d661d26af84acc49",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/User Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/User Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,13 +147,20 @@
             }
           },
           {
-            "id": "d1c1387ee7544761",
+            "id": "d7166135bf7bec24",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "graph",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "28effa8cdf36d782",
+        "type": "tabs",
+        "dimension": 40.7185628742515,
+        "children": [
           {
             "id": "fc9c81ab9fd8eb1c",
             "type": "leaf",
@@ -147,24 +169,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 708.5
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false
     }
   },
-  "active": "ae6d533fd8cf6e54",
+  "active": "f6f315b44abf7cdc",
   "lastOpenFiles": [
     "Gameplay/Core Gameplay.md",
     "Gameplay/User Interface.md",
