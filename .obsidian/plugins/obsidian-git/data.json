@@ -1,8 +1,8 @@
 {
   "commitMessage": "{{hostname}} Update: {{date}}",
   "commitDateFormat": "MMMM Do YYYY, h:mm:ss a",
-  "autoSaveInterval": 0,
-  "autoPushInterval": 0,
+  "autoSaveInterval": 9,
+  "autoPushInterval": 11,
   "autoPullInterval": 20,
   "autoPullOnBoot": true,
   "disablePush": false,
@@ -15,7 +15,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": false,
-  "treeStructure": true,
+  "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "first name",
     "lastShownDateTimeFormatOptions": "custom"
   },
-  "autoCommitMessage": "Borro AutoSave: {{date}}"
+  "autoCommitMessage": "{{hostname}} Update: {{date}}"
 }
