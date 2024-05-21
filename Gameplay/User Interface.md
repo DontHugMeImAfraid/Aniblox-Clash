@@ -1,2 +1,2 @@
-Testing this plug-in
+Testing automatic pushing onto repo
 
