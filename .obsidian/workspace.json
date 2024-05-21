@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/User Interface.md"
+                "file": "Gameplay/Cards.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,9 @@
   },
   "active": "2fb69ba377046912",
   "lastOpenFiles": [
-    "Gameplay/Core Gameplay.md",
     "Gameplay/User Interface.md",
+    "Gameplay/Cards.md",
+    "Gameplay/Core Gameplay.md",
     "README.md",
     "Untitled",
     "Gameplay",
