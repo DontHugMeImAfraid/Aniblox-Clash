@@ -15,7 +15,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
@@ -32,16 +32,16 @@
   "lineAuthor": {
     "show": true,
     "followMovement": "inactive",
-    "authorDisplay": "full",
+    "authorDisplay": "hide",
     "showCommitHash": false,
-    "dateTimeFormatOptions": "date",
-    "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
+    "dateTimeFormatOptions": "custom",
+    "dateTimeFormatCustomString": "MMMM Do YYYY, h:mm:ss a",
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
-      "r": 255,
-      "g": 150,
-      "b": 150
+      "r": 0,
+      "g": 255,
+      "b": 0
     },
     "colorOld": {
       "r": 120,
@@ -50,9 +50,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": true,
-    "gutterSpacingFallbackLength": 16,
-    "lastShownAuthorDisplay": "full",
-    "lastShownDateTimeFormatOptions": "date"
+    "gutterSpacingFallbackLength": 25,
+    "lastShownAuthorDisplay": "first name",
+    "lastShownDateTimeFormatOptions": "custom"
   },
   "autoCommitMessage": "Borro AutoSave: {{date}}"
 }
