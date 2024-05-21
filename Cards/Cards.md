@@ -1,4 +1,4 @@
-# Clash Royale Card Movement Speeds
+# Aniblox Card Movement Speeds
 
 ## Movement Speeds
 

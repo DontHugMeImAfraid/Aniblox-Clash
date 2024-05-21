@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Cards.md",
+                "file": "Cards/Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672fb957aeeea0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Characters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Cards.md"
+                "file": "Cards/Characters.md"
               }
             }
           },
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Cards.md",
+                "file": "Cards/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Cards.md",
+                "file": "Cards/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,13 +199,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "2fb69ba377046912",
+  "active": "672fb957aeeea0ae",
   "lastOpenFiles": [
-    "Gameplay/User Interface.md",
-    "Gameplay/Cards.md",
-    "Gameplay/Core Gameplay.md",
+    "Cards/Cards.md",
     "README.md",
-    "Untitled",
+    "Cards/Characters.md",
+    "Cards",
+    "Gameplay/Anime themes.md",
+    "Gameplay/Core Gameplay.md",
+    "Gameplay/User Interface.md",
     "Gameplay",
     "Units/Untitled.md",
     "as.md",
