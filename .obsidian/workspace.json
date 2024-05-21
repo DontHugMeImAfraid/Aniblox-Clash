@@ -4,66 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2aeb71561b5ae9",
+        "id": "45284e523b7404f2",
         "type": "tabs",
-        "dimension": 67.95685279187818,
         "children": [
           {
-            "id": "95395cb9cea08d24",
+            "id": "fc366273b0e708e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Gameplay/User Interface.md",
-                "mode": "source",
-                "backlinks": true,
+                "mode": "preview",
                 "source": false
               }
-            },
-            "group": "aa1cbd01d08100fb"
-          }
-        ]
-      },
-      {
-        "id": "a9f3d15eed0ac482",
-        "type": "tabs",
-        "dimension": 32.04314720812182,
-        "children": [
-          {
-            "id": "c3563498e9b7588b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Gameplay/User Interface.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "aa1cbd01d08100fb"
+            }
           }
         ]
       }
@@ -192,12 +146,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "95395cb9cea08d24",
+  "active": "fc366273b0e708e4",
   "lastOpenFiles": [
-    "README.md",
     "Gameplay/Core Gameplay.md",
-    "Untitled",
     "Gameplay/User Interface.md",
+    "README.md",
+    "Untitled",
     "Gameplay",
     "Units/Untitled.md",
     "as.md",
