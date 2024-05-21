@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6851fa7b4bf28a45",
+        "id": "66b313f68ce43e79",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f315b44abf7cdc",
+            "id": "2fb69ba377046912",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Gameplay/User Interface.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,14 +94,16 @@
       {
         "id": "cb84f887f51e050f",
         "type": "tabs",
-        "dimension": 59.2814371257485,
+        "dimension": 59.28143712574851,
         "children": [
           {
             "id": "d1c1387ee7544761",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gameplay/User Interface.md"
+              }
             }
           },
           {
@@ -109,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/User Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/User Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "28effa8cdf36d782",
@@ -180,10 +186,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "f6f315b44abf7cdc",
+  "active": "2fb69ba377046912",
   "lastOpenFiles": [
-    "Gameplay/User Interface.md",
     "Gameplay/Core Gameplay.md",
+    "Gameplay/User Interface.md",
     "README.md",
     "Untitled",
     "Gameplay",
