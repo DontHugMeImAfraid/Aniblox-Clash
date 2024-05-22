@@ -14,9 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Core Gameplay.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             },
@@ -35,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Core Gameplay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,8 +57,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
+                  "scale": 0.7132754626224427,
+                  "close": false
                 }
               }
             },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Core Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/User Interface.md",
+                "file": "Gameplay/Core Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,16 +170,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/User Interface.md"
+                "file": "Gameplay/Core Gameplay.md"
               }
             }
+          },
+          {
+            "id": "c28e98d54ad7a081",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "261403c52ff9530e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +207,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "95395cb9cea08d24",
+  "active": "c28e98d54ad7a081",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.canvas",
     "Gameplay/Core Gameplay.md",
-    "Untitled",
     "Gameplay/User Interface.md",
+    "README.md",
+    "Untitled",
     "Gameplay",
     "Units/Untitled.md",
     "as.md",

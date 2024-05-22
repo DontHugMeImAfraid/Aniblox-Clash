@@ -1,0 +1,14 @@
+{
+  "obsidian-git:open-history-view": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "obsidian-git:open-git-view": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
+}
