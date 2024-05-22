@@ -1,4 +1,8 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "theme": "obsidian"
+=======
+  "nativeMenus": false
+>>>>>>> origin/main
 }
