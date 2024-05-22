@@ -3,7 +3,7 @@
 ## Troops
 
 ### 1 Elixir
-- (Shinobi Alliance)
+- Multi Shadow Clone Jutsu
   - **Type:** Melee
   - **HP:** Low
   - **Elixir Cost:** 1

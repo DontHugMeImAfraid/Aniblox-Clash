@@ -23,11 +23,11 @@
             "id": "672fb957aeeea0ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Cards/Characters.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "hash": "f667cb8e94e112f72d2770acf4d2a282c3537e20"
               }
             }
           }
@@ -114,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cards/Characters.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +195,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "672fb957aeeea0ae",
+  "active": "fc9c81ab9fd8eb1c",
   "lastOpenFiles": [
+    "Cards/Characters.md",
     "Cards/Cards.md",
     "README.md",
-    "Cards/Characters.md",
     "Cards",
     "Gameplay/Anime themes.md",
     "Gameplay/Core Gameplay.md",
