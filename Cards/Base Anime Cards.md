@@ -1,7 +1,7 @@
 ### Map: Naruto Training Ground
 - **Main Tower:** Hokage's Office
 - **Secondary:** Naruto styled Tower
-
+### Cards
 - **Kid Sasuke**
   - **Replaces:** Bomber
   - **Type:** Ranged
