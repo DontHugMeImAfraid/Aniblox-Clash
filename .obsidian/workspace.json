@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Cards.md",
+                "file": "Cards/Can you see this.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "672fb957aeeea0ae",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Cards/Characters.md",
-                "staged": false,
-                "hash": "f667cb8e94e112f72d2770acf4d2a282c3537e20"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cards/Can you see this.md"
+              }
             }
           },
           {
@@ -123,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cards/Can you see this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cards/Can you see this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,10 +186,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "fc9c81ab9fd8eb1c",
+  "active": "2fb69ba377046912",
   "lastOpenFiles": [
-    "Cards/Characters.md",
     "Cards/Cards.md",
+    "Cards/Can you see this.md",
+    "Cards/Characters.md",
     "README.md",
     "Cards",
     "Gameplay/Anime themes.md",
