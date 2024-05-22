@@ -3,31 +3,31 @@
 ## Troops
 
 ### 1 Elixir
-- **Skeletons**
+- (Shinobi Alliance)
   - **Type:** Melee
   - **HP:** Low
   - **Elixir Cost:** 1
   - **Description:** Summons a group of weak skeletons.
 
-- **Ice Spirit**
+- (Water Release)
   - **Type:** Ranged
   - **HP:** Low
   - **Elixir Cost:** 1
   - **Description:** Jumps at an enemy, dealing damage and freezing them.
 
-- **Fire Spirit**
+- **Fire Spirit** (Uchiha fire ball jutsu + Kunai)
   - **Type:** Ranged
   - **HP:** Low
   - **Elixir Cost:** 1
   - **Description:** Jumps at an enemy, dealing splash damage.
 
-- **Electro Spirit**
+- **Electro Spirit** (Nara Clan Shadow Possession Jutsu)
   - **Type:** Ranged
   - **HP:** Low
   - **Elixir Cost:** 1
   - **Description:** Jumps at an enemy, chaining damage and stunning up to nine targets.
 
-- **Heal Spirit**
+- **Heal Spirit** (Medic Ninja)
   - **Type:** Ranged
   - **HP:** Low
   - **Elixir Cost:** 1
