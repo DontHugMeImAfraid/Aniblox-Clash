@@ -1,12 +1,4 @@
 {
-  "obsidian-git:open-git-view": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
   "obsidian-git:open-history-view": [
     {
       "modifiers": [
@@ -24,5 +16,12 @@
     }
   ],
   "command-palette:open": [],
-  "editor:open-search-replace": []
+  "editor:open-search-replace": [],
+  "app:open-help": [],
+  "obsidian-git:open-git-view": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ]
 }
