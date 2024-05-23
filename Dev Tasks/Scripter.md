@@ -1,26 +1,33 @@
-Card System
-- Card Selection (Knight, Skeleton, etc)
-- Next Card displayed
-- Working resource bar
-	- If Total Elixer < Card Cost, Display "Not enough resources bar"
-	- Resource bar regeneration
-	- Card selection consumers resource bar (e.g Knight Cost = 2, Total Elixer -= Knight Cost)
+# Battle
 
-Battle Commences:
-- Outcome Screen
-	- Rewards 
-	- Trophies, Coins
-Profile:
-- Card Upgrade
-	- Current card level is displayed
-	- Can upgrade?
-		- Green
-	- Else
-		- Grey
-	- When enough of that card is collected, you're eligible for a card upgrade
-	- Card upgrade cost is displayed
-	- When you click upgrade it would show a confirmation:
-		- Upgrade cost
-		- Upgrade effects, hp increase x, damage increase by y, etc
+#### Card Selection
+- **Card Selection:** Choose from available cards (e.g., Knight, Skeleton).
+- **Next Card Displayed:** Preview of the next card in the queue.
 
-Note: Rewards, trophy systems and card designs have not been finalized, hence placeholder should be used for demonstration purposes
+#### Resource Bar
+- **Working Resource Bar:**
+  - **Display Warning:** If Total Elixir < Card Cost, show "Not enough resources" bar.
+  - **Resource Bar Regeneration:** Continuous elixir regeneration over time.
+  - **Resource Consumption:** Selecting a card deducts its cost from the total elixir (e.g., Knight Cost = 2, Total Elixir -= Knight Cost).
+
+# Battle Commences
+
+#### Outcome Screen
+- **Rewards:**
+  - **Trophies:** Earned based on battle performance.
+  - **Coins:** Currency rewarded after battles.
+
+# Profile
+
+#### Card Upgrade
+- **Current Card Level:** Displayed on the profile.
+- **Upgrade Eligibility:**
+  - **Eligible:** Green indicator.
+  - **Not Eligible:** Grey indicator.
+- **Card Collection:** When enough of a specific card is collected, you become eligible for an upgrade.
+- **Upgrade Cost:** Displayed on the upgrade screen.
+- **Upgrade Confirmation:**
+  - **Details:** Shows upgrade cost and effects (e.g., HP increase, damage increase).
+
+# Note
+- Rewards, trophy systems, and card designs are not finalized. Use placeholders for demonstration purposes.
